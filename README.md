@@ -1,0 +1,1 @@
+A proper MERN stack web application for students to issue books, browse through the catalogue, pay through the gpay-react-button library and for admin to keep track of all the books and edit the bookish-entity content.
